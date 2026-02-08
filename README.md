@@ -82,7 +82,7 @@ The project demonstrates how **Python interacts with SQL databases** to perform 
 
 ## Author
 **Prityush Kumar Choubey**  
-Aspiring Data Analyst / Python Developer  
-Skills: Python, SQL, MySQL, Data Handling  
+Aspiring Data Analyst 
+Skills: Python, SQL, MySQL
 
 ---
